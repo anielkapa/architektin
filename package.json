@@ -1,0 +1,34 @@
+{
+  "name": "architektin",
+  "version": "1.0.0",
+  "description": "webpage for architect ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anielkapa/architektin.git"
+  },
+  "keywords": [
+    "jquery",
+    "architektur",
+    "architektin",
+    "es6"
+  ],
+  "author": "anielkapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anielkapa/architektin/issues"
+  },
+  "homepage": "https://github.com/anielkapa/architektin#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}
